@@ -1,0 +1,1 @@
+ln -s ./../../../masterdata/writeable/uploads/tte ./tte
